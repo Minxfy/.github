@@ -1,4 +1,4 @@
-# Minxfy 
+# Minxfy ✌️
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Next.js](https://img.shields.io/badge/Next.js-13.0-blueviolet.svg)](https://nextjs.org/)
