@@ -1,43 +1,43 @@
-# CosmoConverter 🚀
+# Minxfy ✨
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Next.js](https://img.shields.io/badge/Next.js-13.0-blueviolet.svg)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0-38B2AC.svg)](https://tailwindcss.com/)
+Transform your files with **Minxfy** — a modern, fast, and secure file conversion platform built with Next.js 13, TypeScript, and Tailwind CSS.
 
-Transform your files across the digital universe with Cosmo Converter - a modern, fast, and secure file conversion platform built with Next.js 13, TypeScript, and Tailwind CSS.
+ **Minxfy**: https://minxfy.vercel.app/ 
 
-🚀 CosmoConverter: https://cosmo-converter.vercel.app/ 🚀
+---
 
 ## ✨ Features
 
-- 🌌 Universal Format Support: Convert between multiple file formats
-- ⚡ Quantum Speed: Lightning-fast file conversion
-- 🔒 Secure Processing: Your files are encrypted and automatically deleted after conversion
-- 🎨 Beautiful UI: Space-themed, responsive design with dark mode support
-- 💳 Flexible Pricing: Free tier and premium subscriptions available
+🌐 **Universal Format Support**: Convert between multiple file formats  
+⚡ **Quantum Speed**: Lightning-fast file conversion  
+🔒 **Secure Processing**: Files are encrypted and automatically deleted after conversion  
+🎨 **Beautiful UI**: Clean, responsive design with dark mode support  
+💳 **Flexible Pricing**: Free tier and premium subscriptions available  
 
+---
 
 ## 🛠️ Built With
 
-- [Next.js](https://nextjs.org/) - The React framework for production
-- [TypeScript](https://www.typescriptlang.org/) - Type-safe JavaScript
-- [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
-- [shadcn/ui](https://ui.shadcn.com/) - Re-usable components
-- [Lucide Icons](https://lucide.dev/) - Beautiful icons
+- **Next.js** – The React framework for production
+- **TypeScript** – Type-safe JavaScript
+- **Tailwind CSS** – Utility-first CSS framework
+- **shadcn/ui** – Re-usable UI components
+- **Lucide Icons** – Beautiful icon set
+
+---
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
 
+---
 
 ## 📧 Contact
 
-- Email: official.cosmocrafters@gmail.com
-- Twitter: [@_CosmoCrafters_](https://twitter.com/_CosmoCrafters_)
+- **Email**: [minxfy@proton.me](mailto:minxfy@proton.me)
+
+---
 
 ## 🙏 Acknowledgments
 
-- All our contributors and supporters
-
----
+Thanks to all contributors and supporters who helped bring Minxfy to life!
